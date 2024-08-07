@@ -1,0 +1,17 @@
+.color {
+    background-color: pink;
+    font-family: sans-serif;
+}
+.tamaño{
+    font-size: 24px;
+}
+#blue{
+    color: blue;
+    font-size: 36px;
+    font-weight: bold;
+}
+#red{
+    background-color: rgb(140, 255, 140);
+    font-weight: bold;
+
+}
